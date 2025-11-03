@@ -1,0 +1,21 @@
+user
+msfadmin
+admin
+root
+
+// Senhas
+123456
+password
+qwerty
+msfadmin
+
+//SMB USERS
+user
+msfadmin
+service
+
+//SENHAS SPRAY
+password
+123456
+Welcome123
+msfadmin
