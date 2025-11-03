@@ -1,1 +1,1 @@
-# brute-force-lab
+# Brute Force com Kali + Medusa (Ambiente Controlado)
